@@ -2,7 +2,4 @@ Trabalho da disciplina de Computação II do curso de Engenharia Elétrica da UF
 
 Contato com:
 
-Decision Tree Classifier.
-K-Nearest Neighbors (KNN);
-Redes Neurais;
-Random Forest.
+Decision Tree Classifier; K-Nearest Neighbors (KNN); Redes Neurais; Random Forest.
